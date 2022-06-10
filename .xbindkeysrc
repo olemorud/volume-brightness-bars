@@ -1,15 +1,15 @@
 # Increase volume
-"~/scripts/volume.sh +5%"
+"~/volume.sh +5%"
    XF86AudioRaiseVolume
 
 # Decrease volume
-"~/scripts/volume.sh -5%"
+"~/volume.sh -5%"
    XF86AudioLowerVolume
 
 # Increase brightness
-"~/scripts/brightness.sh 10%+"
+"~/brightness.sh 10%+"
    XF86MonBrightnessUp
 
 # Decrease brightness
-"~/scripts/brightness.sh 10%-"
+"~/brightness.sh 10%-"
    XF86MonBrightnessDown
